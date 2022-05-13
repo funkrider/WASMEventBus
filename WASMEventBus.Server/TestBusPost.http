@@ -1,0 +1,8 @@
+### Send POST request with json body
+POST https://localhost:7280/api/post
+Content-Type: application/json
+
+{
+  "body": "{\"Count\":1}",
+  "typeName": "WASMEventBus.Shared.CounterQuery, WASMEventBus.Shared"
+}

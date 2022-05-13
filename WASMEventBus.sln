@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WASMEventBus.Shared", "WASMEventBus.Shared\WASMEventBus.Shared.csproj", "{92DD954B-C67F-4151-AB13-C577B60C9182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WASMEventBus.Client", "WASMEventBus.Client\WASMEventBus.Client.csproj", "{A4894711-7F8A-4F24-A038-B075C840306C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WASMEventBus.Server", "WASMEventBus.Server\WASMEventBus.Server.csproj", "{136DB368-EFEF-44E4-A532-4278E241E5F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92DD954B-C67F-4151-AB13-C577B60C9182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DD954B-C67F-4151-AB13-C577B60C9182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DD954B-C67F-4151-AB13-C577B60C9182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DD954B-C67F-4151-AB13-C577B60C9182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4894711-7F8A-4F24-A038-B075C840306C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4894711-7F8A-4F24-A038-B075C840306C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4894711-7F8A-4F24-A038-B075C840306C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4894711-7F8A-4F24-A038-B075C840306C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136DB368-EFEF-44E4-A532-4278E241E5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136DB368-EFEF-44E4-A532-4278E241E5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136DB368-EFEF-44E4-A532-4278E241E5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136DB368-EFEF-44E4-A532-4278E241E5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
